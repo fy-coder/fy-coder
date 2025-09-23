@@ -11,6 +11,12 @@ I am a Ph.D. student at the College of Artificial Intelligence, Nanjing Universi
 
 Education
 ======
-Ph.D. in Pattern Recognition and Intelligent Systems, Institute of Automation, Chinese Academy of Sciences (CASIA)
-Sep. 2024 – Present, Nanjing, China
-Supervisor: Prof. Jie Qin and Assoc. Prof. Wentong Li
+Ph.D. Student, College of Artificial Intelligence, Nanjing University of Aeronautics and Astronautics, Sep. 2024 – Present
+
+Research Intern, WeChat, Tencent, Jul. 2024 – Present
+
+Undergraduate Student, College of Computer Science and Technology, Nanjing University of Aeronautics and Astronautics, Sep. 2020 – Jun. 2024
+
+Honors & Awards
+======
+Honorable Mention Award of ACM MM 2023
